@@ -1,0 +1,6 @@
+Medical + Shopping + Another expanse 
+========45000
+Medical + Table + Shopping ====8400 
+M           T          H         M
+OR        12500      11500      1000
+NR        
